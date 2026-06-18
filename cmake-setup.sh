@@ -1,0 +1,1 @@
+/home/ammonium/Projects/Dotfiles/Scripts/cmake-setup.sh
